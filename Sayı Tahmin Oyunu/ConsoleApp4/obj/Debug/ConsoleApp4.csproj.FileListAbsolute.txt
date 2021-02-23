@@ -1,0 +1,19 @@
+C:\Users\MYPCONE\Desktop\vs deneme\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\MYPCONE\Desktop\vs deneme\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\MYPCONE\Desktop\vs deneme\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\MYPCONE\Desktop\vs deneme\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csprojAssemblyReference.cache
+C:\Users\MYPCONE\Desktop\vs deneme\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\MYPCONE\Desktop\vs deneme\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+C:\Users\MYPCONE\Desktop\vs deneme\sayı tahmin oyunu\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\MYPCONE\Desktop\vs deneme\sayı tahmin oyunu\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+C:\Users\MYPCONE\Desktop\vs deneme\sayı tahmin oyunu\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\MYPCONE\Desktop\vs deneme\sayı tahmin oyunu\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\MYPCONE\Desktop\vs deneme\sayı tahmin oyunu\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\MYPCONE\Desktop\vs deneme\sayı tahmin oyunu\ConsoleApp4\obj\Debug\ConsoleApp4.csprojAssemblyReference.cache
+C:\Users\MYPCONE\Desktop\C#\source-c#\vs deneme\sayı tahmin oyunu\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\MYPCONE\Desktop\C#\source-c#\vs deneme\sayı tahmin oyunu\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\MYPCONE\Desktop\C#\source-c#\vs deneme\sayı tahmin oyunu\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\MYPCONE\Desktop\C#\source-c#\vs deneme\sayı tahmin oyunu\ConsoleApp4\obj\Debug\ConsoleApp4.csprojAssemblyReference.cache
+C:\Users\MYPCONE\Desktop\C#\source-c#\vs deneme\sayı tahmin oyunu\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\MYPCONE\Desktop\C#\source-c#\vs deneme\sayı tahmin oyunu\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\MYPCONE\Desktop\C#\source-c#\vs deneme\sayı tahmin oyunu\ConsoleApp4\obj\Debug\ConsoleApp4.pdb

@@ -1,0 +1,6 @@
+C:\Users\MYPCONE\source\repos\ConsoleApp25\ConsoleApp25\bin\Debug\ConsoleApp25.exe.config
+C:\Users\MYPCONE\source\repos\ConsoleApp25\ConsoleApp25\bin\Debug\ConsoleApp25.exe
+C:\Users\MYPCONE\source\repos\ConsoleApp25\ConsoleApp25\bin\Debug\ConsoleApp25.pdb
+C:\Users\MYPCONE\source\repos\ConsoleApp25\ConsoleApp25\obj\Debug\ConsoleApp25.csprojAssemblyReference.cache
+C:\Users\MYPCONE\source\repos\ConsoleApp25\ConsoleApp25\obj\Debug\ConsoleApp25.exe
+C:\Users\MYPCONE\source\repos\ConsoleApp25\ConsoleApp25\obj\Debug\ConsoleApp25.pdb
